@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use the code or traces, please cite this repository."
+title: "RallySight: Supervised Opponent-Aware Positioning for Robot Air Hockey"
+type: software
+authors:
+  - name: "RallySight Contributors"
+repository-code: "https://github.com/LiYu267/RallySight"
+license: MIT
